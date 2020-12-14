@@ -23,7 +23,7 @@ FunctionDeclaration() {
 
 You can enroll to the full course here:
 
-- On [dmitrysoshnikov.education](http://www.dmitrysoshnikov.education) school - _coming soon_
+- On [dmitrysoshnikov.education](https://www.dmitrysoshnikov.education/p/parser-from-scratch) school
 - On [Udemy](https://www.udemy.com/user/dmitry-soshnikov/) - _coming soon_
 
 More details, classes, articles and info is on [http://dmitrysoshnikov.com](http://dmitrysoshnikov.com).
