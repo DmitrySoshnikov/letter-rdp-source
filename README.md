@@ -24,6 +24,6 @@ FunctionDeclaration() {
 You can enroll to the full course here:
 
 - On [dmitrysoshnikov.education](https://www.dmitrysoshnikov.education/p/parser-from-scratch) school
-- On [Udemy](https://www.udemy.com/user/dmitry-soshnikov/) - _coming soon_
+- On [Udemy](https://www.udemy.com/course/parser-from-scratch/?referralCode=E3BF78C54F214B02775E)
 
 More details, classes, articles and info is on [http://dmitrysoshnikov.com](http://dmitrysoshnikov.com).
