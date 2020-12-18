@@ -19,6 +19,8 @@ FunctionDeclaration() {
 }
 ```
 
+The main test runner is located in `__tests__/run.js` which can be executed to validate solutions.
+
 ## Enroll
 
 You can enroll to the full course here:
