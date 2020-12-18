@@ -26,6 +26,6 @@ The main test runner is located in `__tests__/run.js` which can be executed to v
 You can enroll to the full course here:
 
 - On [dmitrysoshnikov.education](https://www.dmitrysoshnikov.education/p/parser-from-scratch) school
-- On [Udemy](https://www.udemy.com/course/parser-from-scratch/?referralCode=E3BF78C54F214B02775E)
+- On [Udemy](https://www.udemy.com/course/parser-from-scratch/?referralCode=E3BF78C54F214B02775E) platform
 
 More details, classes, articles and info is on [http://dmitrysoshnikov.com](http://dmitrysoshnikov.com).
