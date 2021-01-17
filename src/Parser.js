@@ -442,7 +442,22 @@ class Parser {
    * Generic binary expression.
    */
   _BinaryExpression(builderName, operatorToken) {
-    // Implement here...
+    let left = this[builderName]();
+
+    while (this._lookahead.type === operatorToken) {
+      const operator = this._eat(operatorToken).value;
+
+      const right = this[builderName]();
+
+      left = {
+        type: 'BinaryExpression',
+        operator,
+        left,
+        right,
+      };
+    }
+
+    return left;
   }
 
   /**
